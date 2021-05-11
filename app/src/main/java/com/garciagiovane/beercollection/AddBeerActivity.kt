@@ -32,7 +32,8 @@ class AddBeerActivity : AppCompatActivity() {
             val etName = findViewById<EditText>(R.id.adda_txtName)
             val name = etName.text
             if (name.isNullOrEmpty()) {
-                etName.error = "Erro no input"
+                etName.error = resources.getText(R.string.required_field)
+                etName.requestFocus()
             } else {
                 val comments = findViewById<EditText>(R.id.adda_txtComments).text
                 val id = UUID.randomUUID().toString()
