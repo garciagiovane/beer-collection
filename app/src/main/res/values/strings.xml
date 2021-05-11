@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Beer Collection</string>
+    <string name="ma_txtHomeWhatToDo">What will we do?</string>
+    <string name="ma_btnAddBeer">Add beer</string>
+    <string name="ma_btnListBeers">List beers</string>
+    <string name="adda_txtWelcome">Let`s add some beer</string>
+    <string name="adda_txtBeerName">Beer name</string>
+    <string name="adda_txtPurchaseDate">Purchase date</string>
+    <string name="adda_txtBeerComments">Comments</string>
+    <string name="adda_btnAdd">Add</string>
+    <string name="message_beer_saved">Beer saved successfully</string>
+    <string name="beersListItemTvNamePlaceholder">Name</string>
+    <string name="beersListItemTvPurchaseDate">Purchase Date</string>
+    <string name="beersListItemTvPurchaseCommentPlaceholder">Comment</string>
+    <string name="lba_emptyBeersMessage">There is no beers</string>
+    <string name="lba_itemNotInformed">Not informed</string>
+    <string name="ma_txtHomeTitle" translatable="false">Beer Collection</string>
+    <string name="adda_title">Add beer</string>
+    <string name="lba_title">Beers list</string>
+    <string name="required_field">Required field</string>
+</resources>

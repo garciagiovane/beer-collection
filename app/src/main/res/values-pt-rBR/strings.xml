@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adda_txtWelcome">Vamos adicionar</string>
+    <string name="ma_txtHomeWhatToDo">O que vamos fazer?</string>
+    <string name="adda_txtBeerName">Nome</string>
+    <string name="beersListItemTvNamePlaceholder">Nome</string>
+    <string name="lba_itemNotInformed">Não informado</string>
+    <string name="lba_emptyBeersMessage">Não há cervejas</string>
+    <string name="ma_btnListBeers">Listar</string>
+    <string name="adda_txtPurchaseDate">Data da compra</string>
+    <string name="beersListItemTvPurchaseDate">Data da compra</string>
+    <string name="adda_txtBeerComments">Comentários</string>
+    <string name="beersListItemTvPurchaseCommentPlaceholder">Comentário</string>
+    <string name="message_beer_saved">Cervejada adicionada</string>
+    <string name="ma_btnAddBeer">Adicionar</string>
+    <string name="adda_btnAdd">Adicionar</string>
+    <string name="adda_title">Adicionar</string>
+    <string name="lba_title">Lista de cervejas</string>
+    <string name="required_field">Obrigatório</string>
+</resources>
