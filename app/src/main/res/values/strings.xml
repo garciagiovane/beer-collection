@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Beer Collection</string>
     <string name="ma_txtHomeWhatToDo">What will we do?</string>
     <string name="ma_btnAddBeer">Add beer</string>
     <string name="ma_btnListBeers">List beers</string>
@@ -18,4 +17,5 @@
     <string name="adda_title">Add beer</string>
     <string name="lba_title">Beers list</string>
     <string name="required_field">Required field</string>
+    <string name="app_name" translatable="false">Beer Collection</string>
 </resources>
